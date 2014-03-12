@@ -1,3 +1,6 @@
-== Welcome to New Reader Demo
+== NewsReader 
 
-Good luck. Have fun.
+My First Experiene with backbone.JS
+
+This is a basic RSS reader that I built to learn backbone. 
+
